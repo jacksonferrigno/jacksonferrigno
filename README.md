@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacksonferrigno
 - 👀 I’m interested in sports, cooking, and reading
-- 🌱 I’m currently a Junior CS Student
+- 🌱 I’m currently a Senior CS Student
 
 
 <!---
