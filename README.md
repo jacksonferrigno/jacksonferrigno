@@ -7,13 +7,13 @@ Hi there! I'm Jackson Ferrigno, a passionate tech enthusiast, co-founder, and st
 ## 🚀 About Me
 - **Tech Expertise:** AI, Machine Learning, and Software Development.
 - **Co-founder:** [AttorneyAlert](https://www.attorneyalert.net) - A lead generation platform for attorneys.
-- **Student-Athlete:** Division 1 school record-breaking athlete.
+- **Student-Athlete:** Division 1 athlete.
 - **Academics:** Currently diving deep into advanced AI concepts and systematically tackling challenges on LeetCode.
 
 ---
 
 ## 🛠️ Skills and Tools
-- **Languages:** Python, JavaScript, SQL.
+- **Languages:** Python, C++, SQL.
 - **Frameworks:** TensorFlow, PyTorch, React.
 - **Other Tools:** Docker, Git, REST APIs.
 
