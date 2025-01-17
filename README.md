@@ -15,7 +15,7 @@ Hi there! I'm Jackson Ferrigno, a passionate tech enthusiast, co-founder, and st
 ## 🛠️ Skills and Tools
 - **Languages:** Python, C++, JavaScript.
 - **Frameworks:** TensorFlow, PyTorch, React.
-- **Other Tools:** Docker, Git, REST APIs.
+- **Other Tools:** Docker & Git.
 
 ---
 
