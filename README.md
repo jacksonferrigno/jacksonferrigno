@@ -22,6 +22,7 @@ Hi there! I'm Jackson Ferrigno, a passionate tech enthusiast, co-founder, and st
 ## 🌟 Featured Projects
 - **[Electricity Demand Predictor](https://github.com/jacksonferrigno/Electricity-Demand-Predictor):** Designed an AI-powered tool for predicting electricity demand and optimizing resource allocation to enhance grid efficiency.
 - **[Dxter](https://github.com/jacksonferrigno/Dxter):** Developed a blood analysis AI assistant that uses NLP to provide personalized medical insights and analyze blood test results.
+-  **[Crypto Trader](https://github.com/jacksonferrigno/crypto_trader):** Built an automated cryptocurrency trading bot that leverages LSTMs and technical indicators  to predict price movements and execute trades on Gemini.
 - **[HDL Code Analyzer](https://github.com/jacksonferrigno/HDL-Code-Analyzer):** Created a machine learning pipeline for analyzing Hardware Description Language (HDL) code using transformer models and labeled data.
 
 ---
