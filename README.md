@@ -1,42 +1,58 @@
-# Welcome to My GitHub Profile
+# Jackson Ferrigno | Aspiring Data Scientist 
 
-Hi there! I'm Jackson Ferrigno, a passionate tech enthusiast, co-founder, and student-athlete with a knack for solving complex problems and building impactful solutions. Below, you'll find more about me and some highlights from my journey.
-
----
-
-## 🚀 About Me
-- **Tech Expertise:** AI, Machine Learning, and Software Development.
-- **Student-Athlete:** Division 1 athlete.
-- **Academics:** Currently diving deep into advanced AI concepts and systematically tackling challenges on LeetCode.
+Computer Science student at the University of North Alabama with a reseach in AI/ML.
+Incoming **Data Science Intern** at **The Aerospace Corporation** (starting June 2025).
 
 ---
 
-## 🛠️ Skills and Tools
-- **Languages:** Python, C++, JavaScript.
-- **Frameworks:** TensorFlow, PyTorch, & Sci-Kit.
-- **Other Tools:** Docker & Git.
+## 🛠️ Skills
+
+- **Programming Languages:** Python, C/C++, SQL, R, JavaScript
+- **AI & ML:** RAG, MCP, Reinforcement Learning (PPO, Gymnasium), Deep Learning (PyTorch, TensorFlow, Keras), ML (Scikit-Learn, XGBoost), NLP
+- **Data Storage and Manipulation:** Pandas, NumPy, Scikit-Learn, PostgreSQL, MongoDB, DynamoDB
+- **DevOps & Tools:** CI/CD Pipelines, GitHub Actions, Docker, Git, GitHub, AWS, Vercel
 
 ---
 
-## 🌟 Featured Projects
-- **[Electricity Demand Predictor](https://github.com/jacksonferrigno/Electricity-Demand-Predictor):** Designed an AI-powered tool for predicting electricity demand and optimizing resource allocation to enhance grid efficiency.
-- **[Dxter](https://github.com/jacksonferrigno/Dxter):** Developed a blood analysis AI assistant that uses NLP to provide personalized medical insights and analyze blood test results.
--  **[Crypto Trader](https://github.com/jacksonferrigno/crypto_trader):** Built an automated cryptocurrency trading bot that leverages LSTMs and technical indicators  to predict price movements and execute trades on Gemini.
-- **[HDL Code Analyzer](https://github.com/jacksonferrigno/HDL-Code-Analyzer):** Created a machine learning pipeline for analyzing Hardware Description Language (HDL) code using transformer models and labeled data.
+## ✨ Projects
+
+A selection of projects showcasing my technical skills and interests:
+
+### [Bio Innovation Engine Server (MCP Server)](https://github.com/jacksonferrigno/bio-mcp)
+
+A Model-Context Protocol (MCP) server facilitating bio-inspired innovation research. Key tools include web research (Google Custom Search API), analysis of biological concepts (YAKE), storage (PostgreSQL), and report generation.
+
+### [Electricity Demand Predictor (Research Project)](https://github.com/jacksonferrigno/Electricity-Demand-Predictor)
+
+Applied deep learning (bidirectional LSTM via TensorFlow/Keras) for energy demand prediction ($R^2 = 0.911$) and reinforcement learning (PPO in custom Gymnasium env) for grid optimization, reducing blackout risk by 35%. Presented Spring 2025.
+
+### [Stock Misinformation RAG Model](https://github.com/jacksonferrigno/Stock-Misinformation-RAG-Model)
+
+Developed a Retrieval-Augmented Generation (RAG) system combining stock data and headlines to provide context-aware investment summaries.
+
+### [BTC Trader](https://github.com/jacksonferrigno/crypto_trader)
+
+Built an LSTM-based model (Keras) for Bitcoin price prediction and implemented a Dockerized auto-trading system executing trades based on real-time signals.
+
+### [Argos – HDL Code Analyzer](https://github.com/jacksonferrigno/HDL-Code-Analyzer)
+
+Created a Python NLP model using CodeBERT for Hardware Description Language (HDL) pattern detection, achieving 85% accuracy for FSM, counter, and ALU structures.
+
+### Attorney Alert Full Stack Application
+
+Co-founded and led technical development of legal tech company. Engineered scalable AWS backend (Lambda, S3, DynamoDB) to automate processing of 30K+ inmate records/month. Developed a TypeScript/Tailwind frontend.
+
+### [Dxter – Blood Analysis NLP App](https://github.com/jacksonferrigno/Dxter)
+
+Developed an NLP application (`node-nlp`) for interpreting blood lab results (~85% accuracy) with a TypeScript/Tailwind frontend and integrated knowledge base.
 
 ---
 
-## 📈 Current Goals
-- Complete advanced AI coursework.
-- Explore more scientific approaches to AI research.
-- Continue to grow as a developer and athlete.
+## 🌐 Connect
+
+**LinkedIn:** [jackson-ferrigno](https://www.linkedin.com/in/jackson-ferrigno/)
+**Email:** jackferrigno@gmail.com
 
 ---
 
-## 🌐 Connect with Me
-- **LinkedIn:** [Jackson Ferrigno](https://www.linkedin.com/in/jackson-ferrigno/)
-- **Email:** jackson.ferrigno@gmail.com
-
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
+Thank you for visiting.
