@@ -5,7 +5,7 @@ Incoming **Data Science Intern** at **The Aerospace Corporation** (starting June
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Programming Languages:** Python, C/C++, SQL, R, JavaScript
 - **AI & ML:** RAG, MCP, Reinforcement Learning (PPO, Gymnasium), Deep Learning (PyTorch, TensorFlow, Keras), ML (Scikit-Learn, XGBoost), NLP
@@ -14,7 +14,7 @@ Incoming **Data Science Intern** at **The Aerospace Corporation** (starting June
 
 ---
 
-## ✨ Projects
+## Projects
 
 A selection of projects showcasing my technical skills and interests:
 
