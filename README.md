@@ -25,34 +25,4 @@ A Model-Context Protocol (MCP) server facilitating bio-inspired innovation resea
 ### [Electricity Demand Predictor (Research Project)](https://github.com/jacksonferrigno/Electricity-Demand-Predictor)
 
 Applied deep learning (bidirectional LSTM via TensorFlow/Keras) for energy demand prediction ($R^2 = 0.911$) and reinforcement learning (PPO in custom Gymnasium env) for grid optimization, reducing blackout risk by 35%. Presented Spring 2025.
-
-### [Stock Misinformation RAG Model](https://github.com/jacksonferrigno/Stock-Misinformation-RAG-Model)
-
-Developed a Retrieval-Augmented Generation (RAG) system combining stock data and headlines to provide context-aware investment summaries.
-
-### [BTC Trader](https://github.com/jacksonferrigno/crypto_trader)
-
-Built an LSTM-based model (Keras) for Bitcoin price prediction and implemented a Dockerized auto-trading system executing trades based on real-time signals.
-
-### [Argos – HDL Code Analyzer](https://github.com/jacksonferrigno/HDL-Code-Analyzer)
-
-Created a Python NLP model using CodeBERT for Hardware Description Language (HDL) pattern detection, achieving 85% accuracy for FSM, counter, and ALU structures.
-
-### Attorney Alert Full Stack Application
-
-Co-founded and led technical development of legal tech company. Engineered scalable AWS backend (Lambda, S3, DynamoDB) to automate processing of 30K+ inmate records/month. Developed a TypeScript/Tailwind frontend.
-
-### [Dxter – Blood Analysis NLP App](https://github.com/jacksonferrigno/Dxter)
-
-Developed an NLP application (`node-nlp`) for interpreting blood lab results (~85% accuracy) with a TypeScript/Tailwind frontend and integrated knowledge base.
-
----
-
-## 🌐 Connect
-
-**LinkedIn:** [jackson-ferrigno](https://www.linkedin.com/in/jackson-ferrigno/)
-**Email:** jackferrigno@gmail.com
-
----
-
 Thank you for visiting.
