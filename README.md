@@ -1,7 +1,4 @@
-# Jackson Ferrigno | Aspiring Data Scientist 
-
-Computer Science student at the University of North Alabama with a reseach in AI/ML.
-Incoming **Data Science Intern** at **The Aerospace Corporation** (starting June 2025).
+# Jackson Ferrigno
 
 ---
 
@@ -25,4 +22,4 @@ A Model-Context Protocol (MCP) server facilitating bio-inspired innovation resea
 ### [Electricity Demand Predictor (Research Project)](https://github.com/jacksonferrigno/Electricity-Demand-Predictor)
 
 Applied deep learning (bidirectional LSTM via TensorFlow/Keras) for energy demand prediction ($R^2 = 0.911$) and reinforcement learning (PPO in custom Gymnasium env) for grid optimization, reducing blackout risk by 35%. Presented Spring 2025.
-Thank you for visiting.
+
