@@ -13,9 +13,9 @@
 
 A selection of projects showcasing my technical skills and interests:
 
-### [Bio Innovation Engine Server (MCP Server)](https://github.com/jacksonferrigno/bio-mcp)
+### [Bio Innovation Engine Server (MCP Server)](https://github.com/jacksonferrigno/audio-3ds)
 
-A Model-Context Protocol (MCP) server facilitating bio-inspired innovation research. Key tools include web research (Google Custom Search API), analysis of biological concepts (YAKE), storage (PostgreSQL), and report generation.
+A roomscale acoustic intelligence system that uses an RL agent to actively echolocate any environment and render it in real time — no cameras, no wearables, just sound
 
 ### [Electricity Demand Predictor (Research Project)](https://github.com/jacksonferrigno/Electricity-Demand-Predictor)
 
