@@ -13,7 +13,7 @@
 
 A selection of projects showcasing my technical skills and interests:
 
-### [Bio Innovation Engine Server (MCP Server)](https://github.com/jacksonferrigno/audio-3ds)
+### [Audio3DS — Acoustic Deep Dimensional Sensing ](https://github.com/jacksonferrigno/audio-3ds)
 
 A roomscale acoustic intelligence system that uses an RL agent to actively echolocate any environment and render it in real time — no cameras, no wearables, just sound
 
