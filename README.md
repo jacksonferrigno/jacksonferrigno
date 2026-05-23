@@ -3,13 +3,11 @@
 ---
 
 ## Skills
-
-- **Programming Languages:** Python, C/C++, SQL, R, JavaScript
-- **AI & ML:** RAG, MCP, Reinforcement Learning (PPO, Gymnasium), Deep Learning (PyTorch, TensorFlow, Keras), ML (Scikit-Learn, XGBoost), NLP
-- **Data Storage and Manipulation:** Pandas, NumPy, Scikit-Learn, PostgreSQL, MongoDB, DynamoDB
-- **DevOps & Tools:** CI/CD Pipelines, GitHub Actions, Docker, Git, GitHub, AWS, Vercel
-
----
+- **Programming Languages:** Python, TypeScript/JavaScript, C/C++, SQL, R
+- **AI & ML:** LLM Fine-tuning (GRPO/RL, LoRA), Agentic Systems, RAG, MCP, Reinforcement Learning, Deep Learning (PyTorch, TensorFlow), NLP, Multimodal Vision-Language Models
+- **Inference & Serving:** vLLM & SGLang
+- **Data Storage & Manipulation:** Pandas, NumPy, PostgreSQL, MongoDB, DynamoDB, Vector Databases
+- **DevOps/Cloud Infra:** CI/CD Pipelines, GitHub Actions, Docker, Git, GCP, AWS, Vercel
 
 ## Projects
 
