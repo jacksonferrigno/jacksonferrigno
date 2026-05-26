@@ -17,6 +17,10 @@ A selection of projects showcasing my technical skills and interests:
 
 A roomscale acoustic intelligence system that uses an RL agent to actively echolocate any environment and render it in real time — no cameras, no wearables, just sound
 
+### [CAD LLM](https://github.com/jacksonferrigno/cad-llm)
+
+Local agentic CAD on Mac: natural language → CadQuery code → sandboxed execution → STEP export and 3D preview, running entirely on-device with Qwen3.5-4B (MLX) and doc-grounded tool use.
+
 ### [Electricity Demand Predictor (Research Project)](https://github.com/jacksonferrigno/Electricity-Demand-Predictor)
 
 Applied deep learning (bidirectional LSTM via TensorFlow/Keras) for energy demand prediction ($R^2 = 0.911$) and reinforcement learning (PPO in custom Gymnasium env) for grid optimization, reducing blackout risk by 35%. Presented Spring 2025.
